@@ -1,0 +1,8 @@
+****************************************************************
+Description: Distance measurement system using Ultrasonic sensor HC-SR04, Atmega32 with frequency 8Mhz
+Date       : 10/2023
+****************************************************************
+This project is implemented based on layered model as follows:
+1. Application layer
+2. HAL: LCD , Ultrasonic.
+3. MCAL: GPIO , ICU.
